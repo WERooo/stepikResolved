@@ -1,0 +1,12 @@
+/* STEPIK ANSWERS */
+.codebox {
+	border:1px solid black;
+	background-color:#EEEEFF;
+	white-space: pre-line;
+	padding:10px;
+	font-size:0.9em;
+	display: inline-block;
+}
+.codebox code {
+	font-size:0.9em;
+}
